@@ -95,6 +95,9 @@ button {
       <textarea name="message" placeholder="Your Message"></textarea><br><br>
       <button type="submit">Send</button>
     </form>
+<a href="https://www.instagram.com/st10offical" target="_blank">
+<button>Follow ST10</button>
+</a>
 
   </div>
 </div>
