@@ -85,4 +85,17 @@ button {
 .reveal.active {
   opacity: 1;
   transform: translateY(0);
+<div class="section">
+  <div class="overlay">
+    <h2>Contact ST10</h2>
+
+    <form action="https://formspree.io/f/yourID" method="POST">
+      <input type="text" name="name" placeholder="Your Name" required><br><br>
+      <input type="email" name="email" placeholder="Your Email" required><br><br>
+      <textarea name="message" placeholder="Your Message"></textarea><br><br>
+      <button type="submit">Send</button>
+    </form>
+
+  </div>
+</div>
 }
